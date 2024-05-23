@@ -1,4 +1,3 @@
-## Hi there 👋
 
 <p align="left">
   <a href="https://github.com/anuraghazra/github-readme-stats">
